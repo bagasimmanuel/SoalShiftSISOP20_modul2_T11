@@ -144,7 +144,15 @@ Table of Contents
 
   Apabila semua argumen valid, maka Daemon akan melakukan loop tiap detik untuk mengecheck apakah jam saat ini sesuai dengan jam yang diinputkan, bila iya, maka lakukan fork sehingga child process akan menjalankan program `.sh` kemudian mati, sedangkan parent akan terus melakukan loop.
 
-  Screenshot ketika bahwa daemon tengah berjalan : 
+  Screenshot ketika bahwa daemon tengah berjalan :
   ![Screenshot Nomor 1](/images/screenshot_nomor_1.png)
 
   Source Code : [soal1.c](/Soal1/shiftsoal1.c)
+
+  ## Soal 2
+
+  Bingung Bagaimana cara mengerjakannya
+
+  Source Code : [soal2.c](/Soal2/shiftsoal2.c)
+
+  ## Soal 3
