@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir tes
+date >> date.txt
