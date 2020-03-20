@@ -35,11 +35,6 @@ int main(int argc, char *argv[]) {
     exit(EXIT_FAILURE);
   }
 
-  if ((chdir("/")) < 0) {
-    exit(EXIT_FAILURE);
-  }
-
-
   if(argc != 5){
     printf("Argumen harus 5");
     return 0;
