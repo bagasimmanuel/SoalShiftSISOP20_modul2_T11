@@ -147,7 +147,7 @@ Table of Contents
   Screenshot ketika bahwa daemon tengah berjalan :
   ![Screenshot Nomor 1](/images/screenshot_nomor_1.png)
 
-  Source Code : [soal1.c](/Soal1/shiftsoal1.c)
+  Source Code : [soal1.c](/Soal1/shiftsoal11.c)
 
   ## Soal 2
 
